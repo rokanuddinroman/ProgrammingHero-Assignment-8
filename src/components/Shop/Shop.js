@@ -3,7 +3,7 @@ import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import './Shop.css';
 import '../Cart/Cart.css'
-
+import 'boxicons';
 const Shop = () => {
     const [products, setProducts] = useState([])
     const [cart, setCart] = useState([])
@@ -56,7 +56,7 @@ const Shop = () => {
                 </div>
                 <div className='cart-container'>
                     <div className='cart'>
-                        <span className='tag-line'>Your Chooices</span>
+                        <span className='tag-line'>Your Choices</span>
                         {
                             cart.map(item => <Cart key={item.id} item={item}></Cart>)
                         }
@@ -65,8 +65,8 @@ const Shop = () => {
                             <img src={random.picture} alt="" />
                             <p>{random.name}</p>
                         </div>
-                        <button onClick={() => randomSelect(cart)}>Selector</button>
-                        <button className='clear-btn' onClick={() => clearAll(products)}>Clear All</button>
+                        <button onClick={() => randomSelect(cart)}><box-icon name='shuffle'></box-icon>  Selector</button>
+                        <button className='clear-btn' onClick={() => clearAll(products)}><box-icon name='basket'></box-icon>  Clear All</button>
                     </div>
                 </div>
             </div>

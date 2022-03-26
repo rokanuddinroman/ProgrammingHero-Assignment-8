@@ -3,6 +3,7 @@
     border: 1px solid rgb(214, 214, 214);
     margin: 3px;
     border-radius: 6px;
+    position: relative;
 }
 .cart-detail img{
     width: 20%;
@@ -12,3 +13,14 @@
 .cart-detail p{
     font-weight: 500;
 }
+.delete-btn{
+    position: absolute;
+    right: 2px;
+    padding: 10px 10px !important;
+}
+.delete-btn box-icon{
+fill: black !important;
+}
+.delete-btn box-icon:hover{
+    fill: #E90D0D !important;
+    }
