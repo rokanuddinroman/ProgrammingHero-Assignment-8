@@ -29,10 +29,9 @@ const Shop = () => {
         }
     }
 
-    const clearAll = (product) => {
-        let clearCart = product;
-        clearCart = [];
-        setCart(clearCart)
+    const clearAll = (product, random) => {
+        setCart(product = [])
+        setRandom(random = [])
     }
 
     const randomSelect = (cart) => {
@@ -66,7 +65,7 @@ const Shop = () => {
                             <p>{random.name}</p>
                         </div>
                         <button onClick={() => randomSelect(cart)}><box-icon name='shuffle'></box-icon>  Selector</button>
-                        <button className='clear-btn' onClick={() => clearAll(products)}><box-icon name='basket'></box-icon>  Clear All</button>
+                        <button className='clear-btn' onClick={() => clearAll(products, random)}><box-icon name='basket'></box-icon>  Clear All</button>
                     </div>
                 </div>
             </div>
