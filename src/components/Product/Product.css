@@ -1,0 +1,35 @@
+img{
+    width: 100%;
+    border-radius: 6px 6px 0px 0px;
+}
+.product-card{
+    border: 0.5px solid rgba(0, 0, 0, 0.164);
+    background-color: #fcfcfc;
+    border-radius: 6px;
+}
+.product-card div{
+    padding: 8px;
+}
+h2{
+    margin: 2px;
+    font-weight: 500;
+}
+h3{
+    margin-top: 6px;
+    margin-left: 3px;
+}
+button{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    padding: 12px 0px;
+    /* background-color: #222831; */
+    background-image: linear-gradient(to top, #cc0000 0%,#cc0000 51%,#e90d0d 100%);
+    color: white;
+    font-weight: 600;
+    border: 0px;
+    border-radius: 6px;
+}
+button:hover{
+    background-image: linear-gradient(to bottom, #cc0000 0%,#cc0000 51%,#e90d0d 100%);
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 8081,
+        "price": 15200,
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
+        "name": "Nike Sportswear RPM"
+    },
+    {
+        "id": 8082,
+        "price": 17340,
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
+        "name": "Nike Sportswear PPK"
+    },
+    {
+        "id": 8083,
+        "price": 20110,
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
+        "name": "Nike Sportswear OPS"
+    },
+    {
+        "id": 8084,
+        "price": 19999,
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
+        "name": "Nike Sportswear ROQ"
+    },
+    {
+        "id": 8085,
+        "price": 5099,
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
+        "name": "Nike Sportswear AUJ"
+    },
+    {
+        "id": 8086,
+        "price": 16520,
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
+        "name": "Nike Sportswear YIA"
+    },
+    {
+        "id": 8087,
+        "price": 4800,
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
+        "name": "Nike Sportswear SSP"
+    }
+]
