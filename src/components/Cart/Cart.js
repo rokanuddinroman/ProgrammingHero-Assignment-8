@@ -1,11 +1,18 @@
 import React from 'react';
+import './Cart.css'
+const Cart = (props) => {
+    const { name, picture } = props.item;
 
-const Cart = ({ cart }) => {
     return (
-        <div>
-            <h4>Product {cart.length}</h4>
+        <div className='cart-detail'>
+            <img src={picture} alt="" />
+            <p>{name}</p>
         </div>
     );
+    // if (document.getElementsByClassName('cart-detail').length > 3) {
+    //     alert('4 Up')
+    // }
+
 };
 
 export default Cart;
