@@ -1,0 +1,14 @@
+.header-container{
+    background-color: black;
+    border-bottom: 5px solid #e90d0d;
+    padding: 10px 20px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.header-container h2{
+    margin: 0px;
+    margin-left: 10px;
+}

@@ -8,37 +8,49 @@
     {
         "id": 8082,
         "price": 17340,
-        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
-        "name": "Nike Sportswear PPK"
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7728e7da-3cc3-4dcb-8f24-ec8d553ad35c/brasilia-camo-training-backpack-wHZ865.png",
+        "name": "Nike Brasilia"
     },
     {
         "id": 8083,
         "price": 20110,
-        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
-        "name": "Nike Sportswear OPS"
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b6e68593-18a1-4fe1-9ff6-893c65c828f8/shield-rpm-backpack-qJcxjt.png",
+        "name": "Nike Shield RPM"
     },
     {
         "id": 8084,
         "price": 19999,
-        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
-        "name": "Nike Sportswear ROQ"
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c8c1e1e1-f965-43c5-ac1c-7c4284beeabf/backpack-d0DvB3.png",
+        "name": "Nike"
     },
     {
         "id": 8085,
         "price": 5099,
-        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
-        "name": "Nike Sportswear AUJ"
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/510f6c0d-f385-4006-86e0-fe5e2260156e/atletico-madrid-stadium-football-backpack-HM5wpx.png",
+        "name": "Atlético Madrid Stadium"
     },
     {
         "id": 8086,
         "price": 16520,
-        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
-        "name": "Nike Sportswear YIA"
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4593946b-f002-4389-ae6d-7654174c3ec4/shoe-box-bag-9Zt2XD.png",
+        "name": "Nike"
     },
     {
         "id": 8087,
         "price": 4800,
-        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/78ef1e4f-fae3-4ee7-b203-7dd11338aab4/sportswear-rpm-backpack-g8G0jf.png",
-        "name": "Nike Sportswear SSP"
+        "picture": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/sopm2xttrymvcyvypmxa/shoebox-bag-SdgGPJ.png",
+        "name": "Nike Shoebox"
+    },
+    {
+        "id": 8088,
+        "price": 1800,
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4ce90e82-4cae-4eba-96e1-0afd965ccb98/backpack-dQtlP7.png",
+        "name": "Nike"
+    },
+    {
+        "id": 8089,
+        "price": 7900,
+        "picture": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0e0e16fc-0727-4f87-8848-d202d418799d/backpack-Rd2lxW.png",
+        "name": "Nike"
     }
 ]

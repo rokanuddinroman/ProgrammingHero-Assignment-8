@@ -1,0 +1,9 @@
+.footer-container{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+background-color: black;
+border-top: 5px solid #e90d0d;
+color: white;
+padding: 20px;
+gap: 5px;
+}

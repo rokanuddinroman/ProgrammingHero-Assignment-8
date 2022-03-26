@@ -18,6 +18,20 @@
     margin-top: 1rem;
     padding: 5px;
 }
+@media screen and (max-width:700px) {
+    .shop-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin: 5px;
+    }
+    .product-wrapper{
+        padding: 1rem;
+        background-color: #ffffff;
+        display: grid;
+        gap: 1rem;
+        grid-template-columns: 1fr;
+    }
+}
 .head-title{
     text-align: center;
 }
@@ -38,7 +52,6 @@
     position: sticky;
     top: 8px;
 }
-.cart button{
-    /* margin:5px */
+.clear-btn{
+    margin-top: 10px;
 }
-
