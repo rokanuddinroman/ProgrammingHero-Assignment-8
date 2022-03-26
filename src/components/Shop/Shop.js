@@ -8,6 +8,7 @@ const Shop = () => {
     const [products, setProducts] = useState([])
     const [cart, setCart] = useState([])
     const [random, setRandom] = useState([]);
+    const [clear, setClear] = useState([]);
     useEffect(() => {
         fetch('data.json')
             .then(res => res.json())
@@ -27,6 +28,12 @@ const Shop = () => {
             const newCart = [...cart]
             setCart(newCart)
         }
+    }
+
+    const clearAll = (product) => {
+        let clearCart = product;
+        clearCart = [];
+        setCart(clearCart)
     }
 
     const randomSelect = (cart) => {
@@ -57,11 +64,12 @@ const Shop = () => {
                             cart.map(item => <Cart item={item}></Cart>)
                         }
                         <span className='tag-line'>Selected For You</span>
-                        <div className='cart-detail'>
+                        <div className='cart-detail cart-show'>
                             <img src={random.picture} alt="" />
                             <p>{random.name}</p>
                         </div>
                         <button onClick={() => randomSelect(cart)}>Choose 1</button>
+                        <button onClick={() => clearAll(products)}>Clear All</button>
                     </div>
                 </div>
             </div>

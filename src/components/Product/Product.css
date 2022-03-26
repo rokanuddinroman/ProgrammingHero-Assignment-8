@@ -33,3 +33,11 @@ button{
 button:hover{
     background-image: linear-gradient(to bottom, #cc0000 0%,#cc0000 51%,#e90d0d 100%);
 }
+.cart-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+box-icon{
+    fill: #ffffff !important;
+}
